@@ -368,7 +368,7 @@ function clean_logged_achievements() {
 
 function publish_achievements
 {
-    git_achievements="$(which git-achievements)"
+    git_achievements="/Users/karsten/Dropbox/dev/ws/macpro01/atom/git-achievements/git-achievements"
     git_achievements_dir="$(dirname "${git_achievements}")"
     if [ -L "${git_achievements}" ]; then
       case "$(dirname $(readlink ${git_achievements}))" in
