@@ -2,6 +2,7 @@
 <title>Karsten Gresch's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Apprentice Architect (Level 2)</title><description>Created a new repository with git init.</description></item>
 <item><title>Apprentice Cleaning lady (Level 2)</title><description>Removed untracked files from the working tree with git clean</description></item>
 <item><title>Historian (Level 6)</title><description>Investigated the commit log using git log.</description></item>
 <item><title>Apprentice Chimney Sweeper (Level 1)</title><description>Used git gc to run a number of housekeeping tasks on the current repository.</description></item>
@@ -21,5 +22,4 @@
 <item><title>Garage Inventor</title><description>Used a custom alias for a Git command</description></item>
 <item><title>Apprentice Architect (Level 1)</title><description>Created a new repository with git init.</description></item>
 <item><title>Weaver</title><description>Investigate old branches by using git reflog</description></item>
-<item><title>Apprentice Seamstress (Level 1)</title><description>amended a commit with git commit --amend.</description></item>
 </channel></rss>
