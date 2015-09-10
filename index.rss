@@ -2,6 +2,7 @@
 <title>Karsten Gresch's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Apprentice Gipsy (Level 1)</title><description>Create, list, delete a tag signed with GPG using git tag</description></item>
 <item><title>Apprentice Thug (Level 1)</title><description>Forced pushed a branch with git push -f</description></item>
 <item><title>Apprentice Web Designer (Level 1)</title><description>Instantly browsed your working repository in gitweb with git instaweb</description></item>
 <item><title>Master Author (Level 7)</title><description>Made 2^Level commits using git commit.</description></item>
@@ -21,5 +22,4 @@
 <item><title>Librarian</title><description>Looked for change that introduce or remove a string with git log -S</description></item>
 <item><title>Stamp Collector</title><description>Investigated old branches by using git reflog --date=relative</description></item>
 <item><title>Apprentice Architect (Level 2)</title><description>Created a new repository with git init.</description></item>
-<item><title>Apprentice Cleaning lady (Level 2)</title><description>Removed untracked files from the working tree with git clean</description></item>
 </channel></rss>
